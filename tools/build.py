@@ -154,6 +154,9 @@ SID=[0]
 def expander(bl,label='Read more'):
   """first paragraph clamped, rest in details"""
   if not bl: return ''
+  navs=[b for b in bl if b[0]=='ul' and b[2]=='nav']
+  if navs and len(navs)<len(bl):
+    return expander([b for b in bl if not(b[0]=='ul' and b[2]=='nav')],label)+'<nav class="related" aria-label="Related pages">'+render_blocks(navs)+'</nav>'
   tw=sum(words(b[1]) if b[0]=='p' else words(' '.join(b[1])) if b[0]=='ul' else words(b[2]) if b[0]=='h' else 0 for b in bl)
   if tw<=70: return render_blocks(bl)
   # visible: first paragraph (clamped) + up to 4 bullets of first list
@@ -241,6 +244,8 @@ def first_sentence(t,maxw=28):
   s=m.group(1) if m else t
   w=s.split()
   return esc(' '.join(w[:maxw])+('…' if len(w)>maxw else ''))
+import sys; sys.path.insert(0,'/workspace/redesign'); import custom
+CUSTOM,PRE=custom.install(globals())
 # --- page loop
 files=[f for f in glob.glob('**/*.html',recursive=True) if not f.startswith(('wp-','assets/','docs/','comments/','author/'))]
 INDEX=[];PAGEINFO={}
@@ -264,6 +269,8 @@ for f in sorted(files):
     if D and repr(D[-1])==repr(b): continue
     D.append(b)
   B=D
+  if f in PRE: B=PRE[f](B)
+  B_orig=list(B)
   t=soup.title.get_text().strip() if soup.title else ''
   md=soup.find('meta',attrs={'name':'description'}) or soup.find('meta',attrs={'property':'og:description'})
   desc=norm(md['content']) if md and md.get('content') else ''
@@ -303,6 +310,8 @@ for f in sorted(files):
       out+=f'<section class="band" id="{gid}"><div class="wrap"><h2>{esc(gname)}</h2><div class="cards">{cards}</div></div></section>'
     jump='<nav class="jump" aria-label="Categories">'+''.join(f'<a href="#{re.sub(r"\W+","-",gn.lower()).strip("-")}">{esc(gn)}</a>' for gn,_ in GROUPS)+'</nav>'
     main=hero('Treatments &amp; Services','Every treatment and service page in one place, grouped by category.',None,p)+f'<div class="wrap">{jump}</div>'+out
+  elif f in CUSTOM:
+    main=CUSTOM[f](B_orig,p)
   else:
     # hero image: first content image
     himg=None
@@ -326,6 +335,7 @@ for f in sorted(files):
     main=hero(h1,lead,himg,p,big=(f=='index.html'))+render_sections(S)
   ogi=None
   html_out=page_shell(rel,t or plain(h1),desc,main,canon,ogi)
+  if f=='treatments/women-health/index.html': html_out=html_out.replace('<h2>Women’s Health &amp; Therapy</h2>','<h2 id="merged-womans-health-therapy">Women’s Health &amp; Therapy</h2>',1)
   os.makedirs(os.path.dirname(os.path.join(OUT,f)) or OUT,exist_ok=True)
   open(os.path.join(OUT,f),'w',encoding='utf-8').write(html_out)
   if '?' not in f and '/page/' not in f and not re.match(r'\d{4}/',f):
