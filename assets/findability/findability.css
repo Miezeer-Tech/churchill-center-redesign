@@ -49,3 +49,4 @@ header[data-elementor-type="header"],#site-header,footer[data-elementor-type="fo
 body{padding-bottom:52px}.cf-fgrid{grid-template-columns:1fr 1fr}.cf-cards{grid-template-columns:1fr}.cf-hub h1{font-size:28px}}
 .cf-header input.cf-burger{display:none!important}
 .cf-logo{flex:0 0 auto}.cf-logo img{height:52px!important;width:52px!important;max-width:none!important;object-fit:contain}
+.cf-merged .elementor-invisible{visibility:visible!important;opacity:1!important;animation:none!important}.cf-merged{display:block;clear:both}
