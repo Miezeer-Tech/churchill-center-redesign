@@ -1,0 +1,277 @@
+[
+ [
+  "desktop nav links",
+  true,
+  "[['Treatments', 'treatments/'], ['Doctors', 'doctors/'], ['Dr. Dana Show', 'dr-dana-show/'], ['Blog', 'blog/'], ['Reviews', 'reviews/'], ['Contact', 'contact/']]"
+ ],
+ [
+  "nav links resolve 200",
+  true,
+  "[]"
+ ],
+ [
+  "skip link first Tab stop",
+  true,
+  "['Skip to content', '#main']"
+ ],
+ [
+  "visible focus outline",
+  true,
+  "solid 3px"
+ ],
+ [
+  "search \"thyroid\" results",
+  true,
+  "['Treatment Hypothyroidism TreatmentFind medication ', 'Review Better Hormone and Thyroid MedicationDr Chu', 'Article FDA Upgrades Recall on 160,000 Bottles of ', 'Article Hypothyroidism the most commonly misdiagno', 'Article Hypothyroidism Treatment: What to Discuss ']"
+ ],
+ [
+  "search result click-through",
+  true,
+  "http://localhost:8811/treatments/hypothyroidism/"
+ ],
+ [
+  "search Esc closes",
+  true,
+  ""
+ ],
+ [
+  "finder shows all cards",
+  true,
+  "17"
+ ],
+ [
+  "finder query filters",
+  true,
+  "1 visible, count=\"1 shown\", aria-live=polite"
+ ],
+ [
+  "finder empty state",
+  true,
+  ""
+ ],
+ [
+  "finder chip filters + aria-pressed",
+  true,
+  "2 visible; url=http://localhost:8811/treatments/"
+ ],
+ [
+  "finder ?q= param",
+  true,
+  "7"
+ ],
+ [
+  "finder ?c= param",
+  true,
+  "3"
+ ],
+ [
+  "home finder form -> finder",
+  true,
+  "http://localhost:8811/treatments/?q=migraine 1"
+ ],
+ [
+  "blog filter chips",
+  true,
+  "14/53"
+ ],
+ [
+  "doctors expander opens",
+  true,
+  ""
+ ],
+ [
+  "mobile toggle aria-expanded=false",
+  true,
+  ""
+ ],
+ [
+  "mobile menu opens",
+  true,
+  "6"
+ ],
+ [
+  "mobile menu Esc closes",
+  true,
+  ""
+ ],
+ [
+  "mobile Call/Book bar",
+  true,
+  ""
+ ],
+ [
+  "a11y / @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y / @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y treatments/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y treatments/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y treatments/detoxification/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y treatments/detoxification/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y treatments/womens-health/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y treatments/womens-health/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y doctors/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y doctors/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y blog/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y blog/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y reviews/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y reviews/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y dr-dana-show/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y dr-dana-show/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y contact/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y contact/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y book/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y book/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y about/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y about/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y faq/ @1280",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "a11y faq/ @390",
+  true,
+  "{\"h1\": 1, \"noalt\": 0, \"skip\": 0, \"hs\": false, \"lang\": \"en\", \"unl\": 0, \"small\": 0}"
+ ],
+ [
+  "redirect ourdoctors/",
+  true,
+  "http://localhost:8811/doctors/"
+ ],
+ [
+  "redirect contact-us/",
+  true,
+  "http://localhost:8811/contact/"
+ ],
+ [
+  "redirect services/",
+  true,
+  "http://localhost:8811/treatments/"
+ ],
+ [
+  "redirect appointments/",
+  true,
+  "http://localhost:8811/book/"
+ ],
+ [
+  "redirect treatments/women-health/",
+  true,
+  "http://localhost:8811/treatments/womens-health/"
+ ],
+ [
+  "redirect the-drug-free-solution-for-migraine-and-cluster-headache/",
+  true,
+  "http://localhost:8811/treatments/migraine-cluster-headache/"
+ ],
+ [
+  "redirect rejuvenation-treatment-for-women-beauty-therapy/",
+  true,
+  "http://localhost:8811/treatments/rejuvenation-women/"
+ ],
+ [
+  "redirect esthetic-medicine/",
+  true,
+  "http://localhost:8811/blog/esthetic-medicine/"
+ ],
+ [
+  "redirect eczema-since-childhood-it-became-worse-especially-on-my-face-and-hands/",
+  true,
+  "http://localhost:8811/reviews/eczema-since-childhood-it-became-worse-especially-on-my-face-and-hands/"
+ ],
+ [
+  "redirect category/reviews/",
+  true,
+  "http://localhost:8811/reviews/"
+ ],
+ [
+  "redirect welcome/",
+  true,
+  "http://localhost:8811/about/"
+ ]
+]

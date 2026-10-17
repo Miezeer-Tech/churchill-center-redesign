@@ -1,0 +1,800 @@
+{
+ "2017/11/10/index.html": {
+  "new": "reviews/+blog/+reviews/quick-health-improvement/+reviews/better-hormone-and-thyroid-medication/",
+  "pct": 81.59,
+  "words": 201,
+  "missing": {
+   "post": 12,
+   "author": 3,
+   "published": 3,
+   "category": 3,
+   "comments": 6,
+   "0": 3,
+   "continue": 2,
+   "reading": 3,
+   "helped": 1,
+   "remedies": 1
+  }
+ },
+ "2019/04/15/index.html": {
+  "new": "reviews/+blog/+reviews/completed-hcg-diet-i-immediately-started-working-out/+reviews/healing-follows-gradually-after-such-emotional-and-spiritual-strengthening/+reviews/healing-severed-achilles-tendon/",
+  "pct": 78.89,
+  "words": 360,
+  "missing": {
+   "parasite": 1,
+   "infection": 1,
+   "post": 24,
+   "author": 6,
+   "published": 6,
+   "category": 6,
+   "comments": 12,
+   "0": 6,
+   "continue": 5,
+   "reading": 6,
+   "lead": 1,
+   "serious": 1,
+   "depression": 1
+  }
+ },
+ "2020/05/07/index.html": {
+  "new": "reviews/+blog/",
+  "pct": 79.85,
+  "words": 392,
+  "missing": {
+   "having": 1,
+   "post": 24,
+   "author": 6,
+   "center": 2,
+   "published": 6,
+   "category": 6,
+   "comments": 12,
+   "0": 6,
+   "continue": 5,
+   "reading": 6,
+   "grateful": 1,
+   "vitals": 1,
+   "disorder": 1,
+   "next": 1,
+   "page": 1
+  }
+ },
+ "2023/09/11/index.html": {
+  "new": "reviews/+blog/+treatments/vibes-sound-therapy/",
+  "pct": 91.18,
+  "words": 68,
+  "missing": {
+   "post": 2,
+   "author": 1,
+   "published": 1,
+   "category": 1,
+   "reading": 1
+  }
+ },
+ "2023/12/18/index.html": {
+  "new": "reviews/+blog/+reviews/b12-shots/+reviews/i-like-to-visit-regularly-for-my-iv-and-weight-loss-treatment/",
+  "pct": 87.29,
+  "words": 118,
+  "missing": {
+   "post": 6,
+   "author": 2,
+   "published": 2,
+   "category": 2,
+   "continue": 1,
+   "reading": 2
+  }
+ },
+ "2025/05/29/index.html": {
+  "new": "reviews/+blog/+blog/i-couldnt-lose-weight-until-this-thyroid-cortisol-igf-1-what-my-doctor-missed/",
+  "pct": 92.0,
+  "words": 75,
+  "missing": {
+   "post": 3,
+   "author": 1,
+   "published": 1,
+   "category": 1
+  }
+ },
+ "2025/07/23/index.html": {
+  "new": "reviews/+blog/+blog/fda-upgrades-recall-on-160000-bottles-of-popular-thyroid-medication/",
+  "pct": 91.41,
+  "words": 198,
+  "missing": {
+   "upgrades": 1,
+   "000": 1,
+   "post": 6,
+   "author": 2,
+   "published": 2,
+   "category": 2,
+   "continue": 1,
+   "reading": 1,
+   "uncategorized": 1
+  }
+ },
+ "2025/08/28/index.html": {
+  "new": "reviews/+blog/+blog/corey-calliet-final-cut/",
+  "pct": 89.29,
+  "words": 56,
+  "missing": {
+   "post": 3,
+   "author": 1,
+   "published": 1,
+   "category": 1
+  }
+ },
+ "2026/01/27/index.html": {
+  "new": "reviews/+blog/+blog/buying-supplements-online-must-read/",
+  "pct": 82.86,
+  "words": 35,
+  "missing": {
+   "post": 3,
+   "author": 1,
+   "published": 1,
+   "category": 1
+  }
+ },
+ "acuroma-wellness-lymphatic-therapy/index.html": {
+  "new": "treatments/acuroma-lymphatic-therapy/",
+  "pct": 100.0,
+  "words": 104,
+  "missing": {}
+ },
+ "after-my-father-suffered-a-stroke-and-traumatic-head-injury/index.html": {
+  "new": "reviews/after-my-father-suffered-a-stroke-and-traumatic-head-injury/",
+  "pct": 99.55,
+  "words": 222,
+  "missing": {
+   "load": 1
+  }
+ },
+ "anti-aging-cream/index.html": {
+  "new": "treatments/anti-aging-skincare/",
+  "pct": 100.0,
+  "words": 108,
+  "missing": {}
+ },
+ "appointments/index.html": {
+  "new": "book/",
+  "pct": 100.0,
+  "words": 61,
+  "missing": {}
+ },
+ "b12-shots/index.html": {
+  "new": "reviews/b12-shots/",
+  "pct": 99.46,
+  "words": 185,
+  "missing": {
+   "load": 1
+  }
+ },
+ "better-hormone-and-thyroid-medication/index.html": {
+  "new": "reviews/better-hormone-and-thyroid-medication/",
+  "pct": 99.34,
+  "words": 152,
+  "missing": {
+   "load": 1
+  }
+ },
+ "bodybuilding-and-martial-arts-combine-for-better-health-and-fitness-rob-fletcher/index.html": {
+  "new": "blog/bodybuilding-and-martial-arts-combine-for-better-health-and-fitness-rob-fletcher/",
+  "pct": 99.13,
+  "words": 229,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "buying-supplements-online-must-read/index.html": {
+  "new": "blog/buying-supplements-online-must-read/",
+  "pct": 97.62,
+  "words": 84,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "category/articles/index.html": {
+  "new": "blog/",
+  "pct": 98.72,
+  "words": 78,
+  "missing": {
+   "load": 1
+  }
+ },
+ "category/articles/page/2/index.html": {
+  "new": "blog/",
+  "pct": 98.31,
+  "words": 59,
+  "missing": {
+   "load": 1
+  }
+ },
+ "category/blog/index.html": {
+  "new": "blog/",
+  "pct": 98.61,
+  "words": 72,
+  "missing": {
+   "load": 1
+  }
+ },
+ "category/blog/page/2/index.html": {
+  "new": "blog/",
+  "pct": 98.53,
+  "words": 68,
+  "missing": {
+   "load": 1
+  }
+ },
+ "category/dr-dana-show/index.html": {
+  "new": "dr-dana-show/",
+  "pct": 98.75,
+  "words": 80,
+  "missing": {
+   "load": 1
+  }
+ },
+ "category/dr-dana-show/page/2/index.html": {
+  "new": "dr-dana-show/",
+  "pct": 98.92,
+  "words": 93,
+  "missing": {
+   "load": 1
+  }
+ },
+ "category/meda/index.html": {
+  "new": "blog/",
+  "pct": 98.21,
+  "words": 56,
+  "missing": {
+   "load": 1
+  }
+ },
+ "category/meda/page/2/index.html": {
+  "new": "blog/",
+  "pct": 91.67,
+  "words": 12,
+  "missing": {
+   "load": 1
+  }
+ },
+ "category/news/index.html": {
+  "new": "blog/",
+  "pct": 100.0,
+  "words": 69,
+  "missing": {}
+ },
+ "category/reviews/index.html": {
+  "new": "reviews/",
+  "pct": 95.54,
+  "words": 224,
+  "missing": {
+   "more": 4,
+   "page": 5,
+   "5": 1
+  }
+ },
+ "category/reviews/page/2/index.html": {
+  "new": "reviews/",
+  "pct": 96.22,
+  "words": 238,
+  "missing": {
+   "more": 3,
+   "page": 5,
+   "5": 1
+  }
+ },
+ "category/reviews/page/3/index.html": {
+  "new": "reviews/",
+  "pct": 95.89,
+  "words": 219,
+  "missing": {
+   "more": 3,
+   "page": 5,
+   "5": 1
+  }
+ },
+ "category/reviews/page/4/index.html": {
+  "new": "reviews/",
+  "pct": 95.54,
+  "words": 224,
+  "missing": {
+   "more": 3,
+   "1": 1,
+   "page": 5,
+   "5": 1
+  }
+ },
+ "category/reviews/page/5/index.html": {
+  "new": "reviews/",
+  "pct": 95.41,
+  "words": 218,
+  "missing": {
+   "more": 4,
+   "page": 5,
+   "5": 1
+  }
+ },
+ "category/videos/index.html": {
+  "new": "blog/",
+  "pct": 98.73,
+  "words": 79,
+  "missing": {
+   "load": 1
+  }
+ },
+ "category/videos/page/2/index.html": {
+  "new": "blog/",
+  "pct": 98.04,
+  "words": 51,
+  "missing": {
+   "load": 1
+  }
+ },
+ "completed-hcg-diet-i-immediately-started-working-out/index.html": {
+  "new": "reviews/completed-hcg-diet-i-immediately-started-working-out/",
+  "pct": 99.61,
+  "words": 254,
+  "missing": {
+   "load": 1
+  }
+ },
+ "contact-us/index.html": {
+  "new": "contact/",
+  "pct": 97.53,
+  "words": 81,
+  "missing": {
+   "send": 1,
+   "messsage": 1
+  }
+ },
+ "dealing-with-severe-pain-for-over-4-years/index.html": {
+  "new": "reviews/dealing-with-severe-pain-for-over-4-years/",
+  "pct": 99.0,
+  "words": 100,
+  "missing": {
+   "load": 1
+  }
+ },
+ "doctor-shares-why-his-patients-dont-have-heart-attacks-expert-talk-with-dana-churchill-nd/index.html": {
+  "new": "blog/doctor-shares-why-his-patients-dont-have-heart-attacks-expert-talk-with-dana-churchill-nd/",
+  "pct": 99.75,
+  "words": 811,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "dr-churchill-is-an-exceptional-naturopath/index.html": {
+  "new": "reviews/dr-churchill-is-an-exceptional-naturopath/",
+  "pct": 99.57,
+  "words": 235,
+  "missing": {
+   "load": 1
+  }
+ },
+ "dr-churchill-is-on-good-news/index.html": {
+  "new": "blog/dr-churchill-is-on-good-news/",
+  "pct": 98.69,
+  "words": 153,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "dr-dana-show-tell-an-episodic-tv-pilot-proves-not-all-news-is-gloomy-doomy-or-fake/index.html": {
+  "new": "blog/dr-dana-show-tell-an-episodic-tv-pilot-proves-not-all-news-is-gloomy-doomy-or-fake/",
+  "pct": 99.78,
+  "words": 897,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "dr-dana-show-tell-episodic-series/index.html": {
+  "new": "blog/dr-dana-show-tell-episodic-series/",
+  "pct": 99.52,
+  "words": 420,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "dr-dana-show/index.html": {
+  "new": "dr-dana-show/",
+  "pct": 99.57,
+  "words": 231,
+  "missing": {
+   "load": 1
+  }
+ },
+ "eczema-since-childhood-it-became-worse-especially-on-my-face-and-hands/index.html": {
+  "new": "reviews/eczema-since-childhood-it-became-worse-especially-on-my-face-and-hands/",
+  "pct": 99.78,
+  "words": 445,
+  "missing": {
+   "load": 1
+  }
+ },
+ "esthetic-medicine/index.html": {
+  "new": "blog/esthetic-medicine/",
+  "pct": 96.67,
+  "words": 60,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "faq/index.html": {
+  "new": "faq/",
+  "pct": 100.0,
+  "words": 788,
+  "missing": {}
+ },
+ "fda-upgrades-recall-on-160000-bottles-of-popular-thyroid-medication/index.html": {
+  "new": "blog/fda-upgrades-recall-on-160000-bottles-of-popular-thyroid-medication/",
+  "pct": 99.59,
+  "words": 735,
+  "missing": {
+   "postedonline": 1,
+   "load": 1,
+   "more": 1
+  }
+ },
+ "feel-lighter-brighter-and-better-with-a-complete-body-detox-cleanse/index.html": {
+  "new": "blog/feel-lighter-brighter-and-better-with-a-complete-body-detox-cleanse/",
+  "pct": 99.75,
+  "words": 792,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "functional-medicine-for-weight-loss-hope-for-everyone-whos-tried-everything/index.html": {
+  "new": "blog/functional-medicine-for-weight-loss-hope-for-everyone-whos-tried-everything/",
+  "pct": 99.76,
+  "words": 840,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "gut-health-and-bloating-the-silent-struggle-happening-inside-your-body-daily/index.html": {
+  "new": "blog/gut-health-and-bloating-the-silent-struggle-happening-inside-your-body-daily/",
+  "pct": 99.73,
+  "words": 753,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "healing-follows-gradually-after-such-emotional-and-spiritual-strengthening/index.html": {
+  "new": "reviews/healing-follows-gradually-after-such-emotional-and-spiritual-strengthening/",
+  "pct": 99.48,
+  "words": 192,
+  "missing": {
+   "load": 1
+  }
+ },
+ "healing-severed-achilles-tendon/index.html": {
+  "new": "reviews/healing-severed-achilles-tendon/",
+  "pct": 98.86,
+  "words": 88,
+  "missing": {
+   "load": 1
+  }
+ },
+ "healing-without-drugs-the-cutting-edge-science-of-adipose-stem-cells-vince-liguori/index.html": {
+  "new": "blog/healing-without-drugs-the-cutting-edge-science-of-adipose-stem-cells-vince-liguori/",
+  "pct": 97.3,
+  "words": 74,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "how-to-detox-the-right-way-from-mold-bacteria-and-heavy-metals-expert-talk-with-dr-dana-churchill-2/index.html": {
+  "new": "blog/how-to-detox-the-right-way-from-mold-bacteria-and-heavy-metals-expert-talk-with-dr-dana-churchill-2/",
+  "pct": 99.97,
+  "words": 6314,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "hypothyroidism-the-most-commonly-misdiagnosed-illness/index.html": {
+  "new": "blog/hypothyroidism-the-most-commonly-misdiagnosed-illness/",
+  "pct": 97.7,
+  "words": 87,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "hypothyroidism-treatment-what-to-discuss-with-your-doctor-for-best-results/index.html": {
+  "new": "blog/hypothyroidism-treatment-what-to-discuss-with-your-doctor-for-best-results/",
+  "pct": 99.68,
+  "words": 623,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "i-couldnt-lose-weight-until-this-thyroid-cortisol-igf-1-what-my-doctor-missed/index.html": {
+  "new": "blog/i-couldnt-lose-weight-until-this-thyroid-cortisol-igf-1-what-my-doctor-missed/",
+  "pct": 98.9,
+  "words": 181,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "i-like-to-visit-regularly-for-my-iv-and-weight-loss-treatment/index.html": {
+  "new": "reviews/i-like-to-visit-regularly-for-my-iv-and-weight-loss-treatment/",
+  "pct": 99.48,
+  "words": 192,
+  "missing": {
+   "load": 1
+  }
+ },
+ "index.html": {
+  "new": "",
+  "pct": 100.0,
+  "words": 422,
+  "missing": {}
+ },
+ "kent-holtorf-m-d-presents-fresh-perspectives-on-the-rise-in-autism-how-peptides-advance-longevity-may-22/index.html": {
+  "new": "blog/kent-holtorf-m-d-presents-fresh-perspectives-on-the-rise-in-autism-how-peptides-advance-longevity-may-22/",
+  "pct": 99.79,
+  "words": 934,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "latest-drugs-for-weight-loss/index.html": {
+  "new": "blog/latest-drugs-for-weight-loss/",
+  "pct": 99.69,
+  "words": 649,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "life-as-a-masterpiece-design-and-live-a-life-you-love-today-cathy-christen/index.html": {
+  "new": "blog/life-as-a-masterpiece-design-and-live-a-life-you-love-today-cathy-christen/",
+  "pct": 99.24,
+  "words": 263,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "literally-cannot-explain-how-lucky-i-am-to-have-found-this-place/index.html": {
+  "new": "reviews/literally-cannot-explain-how-lucky-i-am-to-have-found-this-place/",
+  "pct": 99.24,
+  "words": 131,
+  "missing": {
+   "load": 1
+  }
+ },
+ "lumagenix-led-light-therapy/index.html": {
+  "new": "treatments/led-light-therapy/",
+  "pct": 100.0,
+  "words": 283,
+  "missing": {}
+ },
+ "mold-and-mycotoxins-the-overlooked-cause-of-chronic-health-issues/index.html": {
+  "new": "blog/mold-and-mycotoxins-the-overlooked-cause-of-chronic-health-issues/",
+  "pct": 99.66,
+  "words": 582,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "more-than-just-supplements-renown-korean-doctor-shares-insights-on-functional-medicine-joshua-cho/index.html": {
+  "new": "blog/more-than-just-supplements-renown-korean-doctor-shares-insights-on-functional-medicine-joshua-cho/",
+  "pct": 99.32,
+  "words": 293,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "my-food-allergies-were-out-of-control/index.html": {
+  "new": "reviews/my-food-allergies-were-out-of-control/",
+  "pct": 99.72,
+  "words": 363,
+  "missing": {
+   "load": 1
+  }
+ },
+ "nad-powerful-molecule-for-energy-addiction-and-anti-aging/index.html": {
+  "new": "blog/nad-powerful-molecule-for-energy-addiction-and-anti-aging/",
+  "pct": 97.3,
+  "words": 74,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "naturopathic-medicine-2/index.html": {
+  "new": "treatments/naturopathic-medicine/",
+  "pct": 100.0,
+  "words": 408,
+  "missing": {}
+ },
+ "on-a-path-to-life-long-health-wellness/index.html": {
+  "new": "blog/on-a-path-to-life-long-health-wellness/",
+  "pct": 99.77,
+  "words": 857,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "ourdoctors/index.html": {
+  "new": "doctors/",
+  "pct": 100.0,
+  "words": 432,
+  "missing": {}
+ },
+ "privacy-policy/index.html": {
+  "new": "privacy-policy/",
+  "pct": 100.0,
+  "words": 1406,
+  "missing": {}
+ },
+ "quick-health-improvement/index.html": {
+  "new": "reviews/quick-health-improvement/",
+  "pct": 98.63,
+  "words": 73,
+  "missing": {
+   "load": 1
+  }
+ },
+ "rejuvenation-for-men-beauty-therapy/index.html": {
+  "new": "treatments/rejuvenation-men/",
+  "pct": 100.0,
+  "words": 505,
+  "missing": {}
+ },
+ "rejuvenation-treatment-for-women-beauty-therapy/index.html": {
+  "new": "treatments/rejuvenation-women/",
+  "pct": 100.0,
+  "words": 538,
+  "missing": {}
+ },
+ "sever-pain-reduced-my-pain-by-90/index.html": {
+  "new": "reviews/sever-pain-reduced-my-pain-by-90/",
+  "pct": 99.26,
+  "words": 136,
+  "missing": {
+   "load": 1
+  }
+ },
+ "some-people-just-cant-lose-weight-heres-why-thyroid-expert-talk-with-dr-dana-churchill-nd-2/index.html": {
+  "new": "blog/some-people-just-cant-lose-weight-heres-why-thyroid-expert-talk-with-dr-dana-churchill-nd-2/",
+  "pct": 99.33,
+  "words": 298,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "terms-conditions/index.html": {
+  "new": "terms-conditions/",
+  "pct": 100.0,
+  "words": 736,
+  "missing": {}
+ },
+ "the-churchill-center-inauguration-event/index.html": {
+  "new": "blog/the-churchill-center-inauguration-event/",
+  "pct": 96.88,
+  "words": 64,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "the-drug-free-solution-for-migraine-and-cluster-headache/index.html": {
+  "new": "treatments/migraine-cluster-headache/",
+  "pct": 100.0,
+  "words": 266,
+  "missing": {}
+ },
+ "the-journey-to-ageless-beauty-starts-with-the-right-anti-aging-skin-cream/index.html": {
+  "new": "blog/the-journey-to-ageless-beauty-starts-with-the-right-anti-aging-skin-cream/",
+  "pct": 99.75,
+  "words": 806,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ },
+ "treatments/detoxification/index.html": {
+  "new": "treatments/detoxification/",
+  "pct": 100.0,
+  "words": 344,
+  "missing": {}
+ },
+ "treatments/diagnostic-testing/index.html": {
+  "new": "treatments/diagnostic-testing/",
+  "pct": 100.0,
+  "words": 398,
+  "missing": {}
+ },
+ "treatments/hypothyroidism/index.html": {
+  "new": "treatments/hypothyroidism/",
+  "pct": 100.0,
+  "words": 97,
+  "missing": {}
+ },
+ "treatments/index.html": {
+  "new": "treatments/",
+  "pct": 100.0,
+  "words": 75,
+  "missing": {}
+ },
+ "treatments/iv-therapy-and-injections/index.html": {
+  "new": "treatments/iv-therapy/",
+  "pct": 100.0,
+  "words": 432,
+  "missing": {}
+ },
+ "treatments/mens-health/index.html": {
+  "new": "treatments/mens-health/",
+  "pct": 100.0,
+  "words": 122,
+  "missing": {}
+ },
+ "treatments/prevention-why/index.html": {
+  "new": "treatments/prevention/",
+  "pct": 100.0,
+  "words": 275,
+  "missing": {}
+ },
+ "treatments/women-health/index.html": {
+  "new": "treatments/womens-health/",
+  "pct": 100.0,
+  "words": 896,
+  "missing": {}
+ },
+ "urinary-tract-infections-utis/index.html": {
+  "new": "blog/urinary-tract-infections-utis/",
+  "pct": 99.7,
+  "words": 674,
+  "missing": {
+   "load": 1,
+   "more": 1
+  }
+ },
+ "vibrational-individualized-body-enhancement-system-v-i-b-e-s/index.html": {
+  "new": "treatments/vibes-sound-therapy/",
+  "pct": 100.0,
+  "words": 765,
+  "missing": {}
+ },
+ "welcome/index.html": {
+  "new": "about/",
+  "pct": 100.0,
+  "words": 118,
+  "missing": {}
+ },
+ "you-change-people’s-lives-and-heal-them/index.html": {
+  "new": "reviews/you-change-peoples-lives-and-heal-them/",
+  "pct": 98.8,
+  "words": 83,
+  "missing": {
+   "load": 1
+  }
+ },
+ "сorey-calliet-final-cut/index.html": {
+  "new": "blog/corey-calliet-final-cut/",
+  "pct": 99.97,
+  "words": 7674,
+  "missing": {
+   "more": 1,
+   "load": 1
+  }
+ }
+}
